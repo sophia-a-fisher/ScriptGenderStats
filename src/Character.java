@@ -6,6 +6,8 @@ public class Character {
     private int timesSpoke;
     private double averageWordsSpoke;
 
+    //Testing comment
+
     /**
      * Initializing character instance variables.
      * @param name character name
