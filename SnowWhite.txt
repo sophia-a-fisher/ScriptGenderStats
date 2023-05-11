@@ -1,0 +1,513 @@
+16
+Queen(F)
+Mirror(M)
+Snow White(F)
+Prince(M)
+Huntsman(M)
+All Dwarfs(M)*
+Doc(M)
+Grumpy(M)
+Happy(M)
+Bashful(M)
+Dopey(M)
+Sneezy(M)
+Various Dwarfs(M)*
+Sleepy(M)
+Grumpy & Sneezy(M)*
+Chorus(NA)*
+
+Queen: Slave in the magic mirror come from the farthest space through wind and darkness I summon thee. wind howling Speak!
+
+Mirror: What wouldst thou know, my Queen?
+
+Queen: Magic Mirror on the wall, who is the fairest one of all?
+
+Mirror: Famed is thy beauty, Majesty. But hold, a lovely maid I see. Rags cannot hide her gentle grace. Alas, she is more fair than thee.
+
+Queen: Alas for her! Reveal her name.
+
+Mirror: Lips red as the rose. Hair black as ebony. Skin white as snow.
+
+Queen: Snow White!
+
+Snow White: [humming] [sighing] [humming continues] Want to know a secret? [humming] Promise not to tell? [sung] ♪We are standing by a wishing well make a wish into the well that’s all you have to do and if you hear it echoing your wish will soon come true I’m wishing [echoing] I’m wishing for the one I love to find me [echoing] to find me today [echoing] today I’m hoping [echoing] I’m hoping and I’m dreaming of the nice things [echoing] the nice things he’ll say [echoing] he’ll say ♪ (ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh) [together with echo] (ah, ah, ah, ah, ahh) I’m wishing [echoing] I’m wishing for the one I love to find me [echoing] to find me today…
+
+Prince: [sung]  Today  [end singing]
+
+Snow White: Oh!
+Prince: Hello.
+Snow White: Oh.
+Prince: Did I frighten you? Wait. Wait, please. Don’t run away. [sung] ♪Now that I’ve found you hear what I have to say one song I have but one song one song only for you one heart tenderly beating ever entreating constant and true one love that has possessed me one love thrilling me through one song my heart keeps singing of one love only for you.♪
+[end singing]
+
+[Back in the castle the Queen is in the next room. Throne Hall.] 
+Queen: Take her far into the forest. Find some secluded glade where she can pick wildflowers.
+Huntsman: Yes, your Majesty.
+Queen: And there, my faithful huntsman, you will kill her!
+Huntsman: But, your Majesty, the little princess!
+Queen: Silence! You know the penalty if you fail.
+Huntsman: Yes, your Majesty.
+Queen: But to make doubly sure… You do not fail, bring back her heart… In this. [shows a box]
+
+Snow White: [humming] [sung] One song I have but one song. [humming] [humming continues] [chirping] [chirping continues] [end singing] Hello there. What’s the matter? Where’s your mama and papa? Why, I believe you’re lost. [chirping] Oh, please, don’t cry. [chirping] Come on. Perk up. Won’t you smile for me? [laughing] That’s better. Your mama and papa can’t be far. [chirping] There they are. Can you fly? Good-bye. Good-bye! [screaming]
+Huntsman: I can’t, I can’t do it. Forgive me. I beg of your highness, forgive me.
+Snow White: I don’t understand.
+Huntsman: She’s mad. Jealous of you. She’ll stop at nothing.
+Snow White: But… but who?
+Huntsman: The Queen!
+Snow White: The Queen?
+Huntsman: Yes. Now, quick, child. Run. Run away, hide. In the woods. Anywhere. Never come back. Now, go. Go! Go! Run! Run! Hide! [Huntsman shouting]
+
+[Now we see just Snow White running through the forest, Branches grabs her dress and cape, Trees turns elephant-like lion, Logs turns crocodiles, Blazing eyes glared at her]
+[screeching]
+[screaming]
+[gasping, screaming]
+[screaming]
+[wind howling]
+[screaming]
+[screaming, sobbing]
+[Finally, when Snow white could run no further, she collapses to the ground sobbing. When Snow white looked up, she saw several forest animals gathered around her.]
+[sobbing]
+[sobbing continues]
+[still sobbing]
+Snow White: Oh! Please, don’t run away. I won’t hurt you. I’m awfully sorry. I didn’t mean to frighten you. But you don’t know what I’ve been through. And all because I was afraid. I’m so ashamed of the fuss I’ve made. What do you do when things go wrong?
+[Twittering]
+Snow White: Oh! You sing a song! [Twittering] [Sung] Ah-ah-ah-ah-ahh [Twittering] Ah-ah-ah-ah-ahh ah-ah-ah-ah-ahh [Twittering] Ah-ah-ah-ah-ahh. [Vocalizing] [Mimicking Snow White] [Shrill Note] [Laughing] With a smile and a song life is just like a bright, sunny day your cares fade away and your heart is young [Twittering] with a smile and a song all the world seems to waken anew rejoicing with you as the song is sung there’s no use in grumbling when raindrops come tumbling [Twittering] remember you’re the one who can fill the world with sunshine when you smile and you sing everything is in tune and it’s spring and life flows along [Twittering] with a smile and a song.
+[Twittering] [Twittering] [End Singing]
+Snow White: [Spoken] I really feel quite happy now. I’m sure I’ll get along somehow. Everything’s going to be all right. But I do need a place to sleep at night. [Chuckling] I can’t sleep in the ground like you. Or in a tree the way you do. And I’m sure no nest would possibly be big enough for me. Maybe you know where I can stay. In the woods somewhere? You do?
+[Twittering] Will you take me there? Oh, it’s adorable. Just like a doll’s house. I like it here. Ooh, it’s dark inside. Guess there’s no one home. [Door Creaking] Hello? May I come in?
+Shh. Oh! What a cute little chair. Why, there’s seven little chairs. Must be seven little children. And from the look of this table, seven untidy little children. A pickax. A stocking too. [Laughing] And a shoe. [Astonished Whistle] [Astonished Whistle] And just look at that fireplace. It’s covered with dust. [Squirrel 1 Sneezing] [Squirrel 2 Sneezing] [Squirrel 3 Sneezing] And look, cobwebs everywhere. My, my, my! What a pile of dirty dishes.
+[Whistling] [Gasping] And just look at that broom. Tsk, tsk, tsk! Tsk, tsk, tsk! Why, they’ve never swept this room. You’d think their mother would-- [Gasping] Maybe they have no mother. Then, they’re orphans. That’s too bad. I know. We’ll clean the house and surprise them. Then, maybe they’ll let me stay. [Twittering] Now, you wash the dishes. You tidy up the room. You clean the fireplace. And I’ll use the broom. [Twittering Bugle Call] [Twittering Bugle Call] [Sung] Just whistle while you work [Whistling] and cheerfully together we can tidy up the place so hum a merry tune [Humming] it won’t take long when there’s a song to help you set the pace and as you sweep the room imagine that the broom is someone that you love and soon you’ll find you’re dancing to the tune [Spoken] oh, no, no, no, no! Put them in the tub. [Singing Continues] When hearts are high the time will fly so whistle while you work [Spoken] Uh, uh, uh, uh. Not under the rug. [Chattering] [Humming] [Music Box] [Sneezing] [ Humming] [Twittering] [Twittering] [Humming] [Humming Continues] [Singing Continues] So whistle while you work [Twittering] [Humming] [End Snow White’s Singing]
+[Now cuts to the Seven Dwarfs singing]
+
+All Dwarfs: ♪We dig, dig, dig, dig dig, dig, dig in our mine the whole day through to dig, dig, dig, dig dig, dig, dig is what we like to do it ain’t no trick to get rich quick if ya dig, dig, dig with a shovel or a pick in a mine.♪
+[Echoing]
+♪In a mine in a mine♪
+[Echoing]
+In a mine where a million diamonds
+[Echo] Shine, we dig, dig, dig, dig dig, dig, dig
+[Clicking Tongue] From early morn ‘til night
+[Buzzing] We dig, dig, dig, dig dig, dig, dig up
+Everything in sight
+We dig up diamonds by the score
+[Ringing] A thousand rubies sometimes more though we don’t know what we dig ‘em for
+[Hollow Sounding] we dig, dig dig-a-dig, dig [Clattering] [Ticking] [Ringing]
+Heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho It’s home from work we go [Whistling] Heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho It’s home from work we go [Whistling] Heigh-ho, heigh-ho, [Whistling] Heigh-ho, heigh-ho, heigh-ho, heigh-ho, Heigh-ho, heigh-ho, heigh-ho, heigh-ho-hum, heigh-ho, heigh-ho It’s home from work we go [Whistling] Heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho It’s home from work we go [Whistling] Heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho It’s home from work we go [Whistling] Heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho, heigh-ho [End Singing]
+Snow White: LET’S SEE WHAT’S UPSTAIRS. [Door Creaking] OH, WHAT ADORABLE LITTLE BEDS. AND LOOK, THEY HAVE THEIR NAMES CARVED ON THEM. DOC, HAPPY, SNEEZY, DOPEY-- [Laughing] WHAT FUNNY NAMES FOR CHILDREN. GRUMPY, BASHFUL AND SLEEPY. I’M A LITTLE SLEEPY MYSELF. OH, OH.
+All Dwarfs: [Singing] HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO IT’S HOME FROM WORK WE GO [Whistling] HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO, HEIGH-HO IT’S HOME FROM WORK WE GO [Whistling] HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO, HEIGH-HO IT’S HOME FROM WORK WE GO [Whistling] HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO IT’S HOME FROM WORK WE GO [Whistling] HEIGH-HO, HEIGH-HO, HEIGH-HO, HEIGH-- [End Singing]
+Doc: LOOK! OUR HOUSE! THE LIT’S LIGHT-- UH, THE LIGHT’S LIT.
+All Dwarfs: JIMINY CRICKETS. THE DOOR IS OPEN. THE CHIMNEY’S SMOKIN’. SOMETHING’S IN THERE. MAYBE A GHOST. OR A GOBLIN. A DEMON. OR A DRAGON.
+Grumpy: MARK MY WORDS, THERE’S TROUBLE A-BREWIN’. FELT IT COMIN’ ALL DAY. MY CORNS HURT.
+Happy: GOSH.
+Bashful: THAT’S A BAD SIGN.
+All Dwarfs: [In Unison] WHAT’LL WE DO? LET’S SNEAK UP ON IT.
+Doc: YES. AHEM, WE’LL, UH, SQUEAK UP-- SNEAK UP. COME ON, HEN-- UH, MEN. FOLLOW ME. PSST. [Door Creaking] [Door Creaking] [Shoes Squeaking] [Door Slamming]
+All Dwarfs: [In Unison] SHH!
+Dopey: SHH!
+Doc: CAREFUL, MEN. SEARCH EVERY COOK AND NANNY-- UH, HOOK AND GRANNY-- UH, CROOKED FAN-- UH, SEARCH EVERYWHERE. [Shoes Squeaking] [Loud Noise] SHH! QUIET. LOOK! THE FLOOR! IT’S BEEN SWEPT!
+Grumpy: HAH! CHAIR’S BEEN DUSTED.
+Happy: OUR WINDOW’S BEEN WASHED.
+Bashful: GOSH, OUR COBWEBS ARE MISSIN’.
+Doc: WHY, WHY, WHY-- WHY, THE WHOLE PLACE IS CLEAN!
+Grumpy: THERE’S DIRTY WORK AFOOT.
+Sneezy: SINK’S EMPTY. HEY, SOMEONE STOLE OUR DISHES!
+Happy: THEY AIN’T STOLE. THEY’RE HID IN THE CUPBOARD.
+Bashful: MY CUP’S BEEN WASHED. SUGAR’S GONE.
+Happy: SOMETHING’S COOKIN’. [Sniffing] SMELLS GOOD.
+Grumpy: DON’T TOUCH IT, YOU FOOLS! MIGHT BE POISON. [Steam Escaping, Pot Lid Rattling] SEE? IT’S WITCH’S BREW.
+Doc: LOOK WHAT’S HAPPENED TO OUR STABLE-- UH, TABLE.
+Bashful: FLOWERS! [Sniffing] HUH? LOOK, GOLDENROD.
+Sneezy: DON’T DO IT. TAKE THEM AWAY. MY NOSE! MY HAY FEVER! YOU KNOW I CAN’T STAND IT. I CAN’T-- I CAN’T-- I-- OH! AH-- AHHH-- [Sighing] THANKS. AH-CHOOOOO!
+Grumpy: HEY!
+All Dwarfs: [In Unison] SHH!
+Grumpy: YA CRAZY FOOL! FINE TIME YA PICKED TO SNEEZE!
+Sneezy: I COULDN’T HELP IT. I CAN’T TELL. WHEN YOU GOTTA, YOU GOTTA. I-- I-- I GOTTA. I-IT’S COMIN’. OH, SHI-- SHI--
+All Dwarfs: DON’T LET HIM. STOP HIM.
+Sneezy: OH, AH-- AH-- AH-
+Various Dwarfs: DON’T LET GO. HOLD HIM TIGHT. I’LL TIE IT. MAKE A HARD KNOT. THERE, THAT’LL HOLD HIM.
+Sneezy: [Sighing] THANKS!
+All Dwarfs: SHH!
+Grumpy: QUIET, YOU FOOL. WANT TO GET US ALL KILLED? [Tapping]
+Happy: WHA-- WHAT’S THAT? THAT’S IT.
+Grumpy: SOUNDED CLOSE. IT’S IN THIS ROOM RIGHT NOW. [Shrieking]
+Doc: IT’S UP THERE.
+Bashful: YEAH, IN THE BEDROOM.
+Doc: ONE OF US HAS GOT TO GO DOWN... AND CHASE IT UP. UH, UH, UH, UP, DOWN. HERE, TAKE IT. DON’T BE NERVOUS. [Stairs Creaking] [Creaking] DON’T BE AFRAID. WE’RE RIGHT BEHIND YOU.
+All Dwarfs: [In Unison] YES, RIGHT BEHIND YA. [Gulping] [Door Creaking] [Snow White Yawning]
+Dopey: [Screaming]
+Doc: HERE IT COMES!
+All Dwarfs: [Groaning] [Groaning, Shouting] IT’S AFTER US! DON’T LET IT OUT! HOLD IT SHUT! [Crashing] [Clattering]
+Various Dwarfs: HERE IT COMES. NOW’S OUR CHANCE. GET IT, NOW. GIVE IT TO ‘IM. DON’T LET HIM GET AWAY! TAKE THAT, AND THAT, AND THAT!
+Doc: HOLD ON THERE, I-IT’S ONLY DOPEY.
+Various Dwarfs: DID YOU SEE IT? HOW BIG IS IT? WAS IT A DRAGON? HAS IT GOT HORNS? WAS IT BREATHING FIRE? WAS IT DROOLIN’? WHAT WAS IT DOIN’? [Snoring]
+Doc: HE’S SAYS IT’S... A MONSTER... ASLEEP IN OUR BEDS! 
+Grumpy: LET’S ATTACK. WHILE IT’S SLEEPING.
+All Dwarfs: YEAH, WHILE IT’S SLEEPING.
+Doc: HURRY, MEN, IT’S NOW OR NEVER.
+All Dwarfs: OFF WITH ITS HEAD. BREAK ITS BONES. CHOP IT TO PIECES. WE’LL KILL IT DEAD. [Door Creaking] [Snow White Yawning]
+Various Dwarfs: JIMINY CRICKETS. GOSH! GEE, WHAT A MONSTER. COVERS THREE BEDS.
+Doc: LET’S KILL IT BEFORE IT WAKES UP.
+Happy: WHICH END DO WE KILL?
+Doc: SHH!
+SHH!
+Doc: WELL, UH, UH--
+Happy: WHAT IS IT?
+Doc: WHY, I-IT’S A GIRL!
+Sneezy: SHE’S MIGHTY PRETTY.
+Bashful: SHE’S BEAUTIFUL. JUST LIKE A ANGEL.
+Grumpy: ANGEL, HAH! SHE’S A FEMALE! AND ALL FEMALES IS POISON! THEY’RE FULL OF WICKED WILES!
+Bashful: WHAT ARE WICKED WILES?
+Grumpy: I DON’T KNOW, BUT I’M AGIN’EM.
+Doc: SHH! NOT SO LOUD. YOU’LL WAKE HER UP.
+Grumpy: AW, LET HER WAKE UP! SHE DON’T BELONG HERE NOHOW!
+Sneezy: LOOK OUT. SHE’S MOVIN’.
+Happy: SHE’S WAKIN’ UP.
+Sneezy: WHAT DO WE DO?
+Doc: Hide!
+Snow White: OH, DEAR! I WONDER IF THE CHILDREN ARE-- OH! WHY-- WHY, YOU’RE LITTLE MEN. HOW DO YOU DO? I SAID, HOW DO YOU DO?
+Grumpy: HOW DO YA DO WHAT?
+Snow White: OH, YOU CAN TALK. I’M SO GLAD. NOW, DON’T TELL ME WHO YOU ARE. LET ME GUESS. I KNOW, YOU’RE DOC.
+Doc: WHY-- WHY-- WHY, YES! YES! THAT’S TRUE.
+Snow White: AND YOU’RE-- YOU’RE BASHFUL.
+Bashful: OH, GOSH! [Dwarfs Chuckling]
+Snow White: AND, YOU? YOU’RE SLEEPY.
+Sleepy: HOW’D YOU GUESS?
+[Dwarfs Chuckling]
+Snow White: AND YOU?
+Sneezy: AH-- AH-- AH-- AH--
+Snow White: YOU’RE SNEEZY.
+[Dwarfs Chuckling] [Sighing]
+Sneezy: AH-CHOO!
+[Dwarfs Laughing] 
+Snow White: YES, AND YOU MUST BE--
+Happy: HAPPY, MA’AM. THAT’S ME. AND THIS IS DOPEY. HE DON’T TALK NONE.
+Snow White: YOU MEAN HE CAN’T TALK?
+Happy: HE DON’T KNOW.
+HE NEVER TRIED.
+Snow White: OH, THAT’S TOO BAD. 
+Snow White: OH, YOU MUST BE GRUMPY. [Dwarfs Laughing]
+Doc: OH, YEAH. 
+Grumpy: HAH! WE KNOW WHO WE ARE.
+ASK HER WHO SHE IS
+AND WHAT SHE’S A-DOIN’ HERE! 
+Doc: HMPH! YES! WHAT ARE YOU AND WHO ARE YOU DOIN’? UH, UH, WHAT ARE YOU--
+UH, WHO ARE YOU, MY DEAR?
+Snow White: OH, HOW SILLY OF ME. I’M SNOW WHITE.
+All Dwarfs: SNOW WHITE? THE PRINCESS?
+Snow White: YES.
+Doc: WELL, MY DEAR QUINCESS-- UH, PRINCESS. WE’RE, UH-- WE’RE HONORED. YES, WE’RE--
+Grumpy: MAD AS HORNETS!
+Doc: MAD AS HORNETS! NO, NO, WE’RE NOT! WE’RE BAD AS CORNETS-- NO, NO, AS BAD AS-- WHAT WAS I SAYIN’?
+Grumpy: NOTHIN’! JUST STANDIN’ THERE SPUTTERIN’ LIKE A DOODLEBUG!
+Doc: WHO’S BUTTERIN’ LIKE A SPOODLEDUG? WHO’S, UH, UH--
+Grumpy: AW, SHUT UP! AND TELL HER TO GIT OUT!
+Snow White: PLEASE, DON’T SEND ME AWAY. IF YOU DO, SHE’LL KILL ME.
+All Dwarfs: KILL YOU?
+Various Dwarfs: WHO WILL? YES, WHO?
+Snow White: MY STEPMOTHER, THE QUEEN.
+All Dwarfs: THE QUEEN!
+SHE’S WICKED.
+Happy: SHE’S BAD.
+Sneezy: SHE’S MIGHTY MEAN.
+Grumpy: SHE’S AN OLD WITCH! I’M WARNIN’ YA! IF THE QUEEN FINDS HER HERE, SHE’LL SWOOP DOWN... AND WREAK HER VENGEANCE ON US! 
+Snow White: BUT SHE DOESN’T KNOW WHERE I AM. 
+Grumpy: SHE DON’T, HUH?
+SHE KNOWS EVERYTHING.
+SHE’S FULL OF BLACK MAGIC. SHE CAN EVEN MAKE HERSELF INVISIBLE. PFFT! MIGHT BE IN THIS ROOM RIGHT NOW. 
+Snow White: OH, SHE’LL NEVER FIND ME HERE. AND IF YOU LET ME STAY, I’LL KEEP HOUSE FOR YOU. I’LL WASH AND SEW AND SWEEP AND COOK AND--
+All dwarfs: [In Unison] COOK? 
+Doc: CAN YA MAKE DAPPLE LUMPKINS-- UH, LUMPLE DAPPLINS-- APPLE DUMPLINGS!
+Grumpy & Sneezy: APPLE DUMPLINGS!
+Doc: AH, YES! CRAPPLE DUMPKINS.
+Snow White: YES, AND PLUM PUDDING AND GOOSEBERRY PIE-- 
+All Dwarfs: GOOSEBERRY PIE? HURRAY! SHE STAYS! [Sniffing] AH! SOUP!
+All Dwarfs: HURRAY! [Chattering] [Chattering Continues] [Chattering, Arguing]
+Snow White: UH, UH, UH, JUST A MINUTE. SUPPER’S NOT QUITE READY. YOU’LL JUST HAVE TIME TO WASH.
+All Dwarfs: [In Unison] WASH?
+Grumpy: HAH! KNEW THERE’S A CATCH TO IT!
+Bashful: WHY WASH?
+Happy: WHAT FOR? WE AIN’T GOIN’ NOWHERE.
+Doc: ‘TAIN’T NEW YEAR.
+Snow White: OH, PERHAPS YOU HAVE WASHED.
+Doc: PERHAPS WE-- YES, PERHAPS WE HAVE. BUT WHEN? WHEN? UH, WHEN? UH, YOU SAID, WHEN? WHY, LAST WEEK-- UH, MONTH-- YEAR-- WHY, RECENTLY.
+All Dwarfs: [In Unison] YES, RECENTLY.
+Snow White: OH, RECENTLY. LET ME SEE YOUR HANDS.
+LET ME SEE YOUR HANDS.
+WHY, DOC, I’M SURPRISED. [Nervous Chuckling] COME ON. LET’S SEE THEM. OH, BASHFUL, MY, MY, MY! AND YOU? TSK, TSK, TSK! [Gasping]
+WORSE THAN I THOUGHT. OH! [Gasping]
+HOW SHOCKING. TSK, TSK, TSK! GOODNESS ME, THIS WILL NEVER DO. MARCH STRAIGHT OUTSIDE AND WASH, OR YOU’LL NOT GET A BITE TO EAT. [Clattering]
+Grumpy: HAH!
+Snow White: WELL, AREN’T YOU GOING TO WASH? WHAT’S THE MATTER? CAT GOT YOUR TONGUE? [Snow White Laughing]
+OH, DID YOU HURT YOURSELF? HMPH! [Door Slamming] HAH, WOMEN!
+Doc: COURAGE, MEN, COURAGE!
+DON’T BE NERVOUS.
+Happy: GOSH, IT’S WET. [Sputtering]
+Sleepy: BRRRR! IT’S COLD TOO!
+Bashful: WE AIN’T GONNA DO IT, ARE WE?
+Doc: WELL, I-IT’LL PLEASE THE PRINCESS.
+Happy: I’LL TAKE A CHANCE FOR HER.
+All Dwarfs: [In Unison] ME TOO!
+Grumpy: HAH! HER WILES ARE BEGINNIN’ TO WORK. BUT I’M WARNIN’ YA, YOU GIVE ‘EM AN INCH, AND THEY’LL WALK ALL OVER YA!
+Doc: DON’T LISTEN TO THAT OLD WARTHOG. COME ON NOW, MEN.
+Sleepy: HOW HARD DO YA SCRUB?
+Sneezy: DO BEARDS COUNT?
+Happy: DO YA GET IN THE TUB?
+Bashful: DO YA HAVE TO WASH WHERE IT DOESN’T SHOW?
+Doc: NOW, NOW, NOW, DON’T GET EXCITED. HERE WE GO.
+[Singing Begins]
+STEP UP TO THE TUB
+‘TAIN’T NO DISGRACE
+JUST PULL UP YOUR SLEEVES
+AND GET ‘EM IN PLACE
+THEN SCOOP UP THE WATER
+AND RUB IT ON YOUR FACE
+AND GO-- [Sputtering] PICK UP THE SOAP
+NOW, DON’T TRY TO BLUFF
+WORK UP A LATHER
+AND WHEN YOU GOT ENOUGH
+GET YOUR HANDS FULL OF WATER
+AND YOU SNORT AND YOU SNUFF
+AND GO-- [Sputtering] YOU DOUSE AND YOU SOUSE
+RUB AND YA SCRUB
+YOU SPUTTER AND SPLASH
+ALL OVER THE TUB
+[Buzzing] YOU MAY BE COLD AND WET
+WHEN YOU’RE DONE
+BUT YA GOTTA ADMIT
+IT’S GOOD AND CLEAN FUN
+SO SPLASH ALL YA LIKE
+‘TAIN’T ANY TRICK
+AS SOON AS YOU’RE THROUGH
+YOU’LL FEEL MIGHTY SLICK
+BUNCH OF OLD NANNY GOATS
+YA MAKE ME SICK GOING-- [Sputtering]
+[Sputtering] HAH! NEXT THING YA KNOW... SHE’LL BE TYIN’ YOUR BEARDS UP IN PINK RIBBONS... AND SMELLIN’ YA UP WITH THAT STUFF CALLED, UH, PERFOOM. HAH!
+[Spitting] [Water Sloshing] A FINE BUNCH OF WATER LILIES YOU TURNED OUT TO BE. I’D LIKE TO SEE ANYBODY MAKE ME WASH, IF I DIDN’T WANNA. AHEM. [Whispering] [Chuckling] [Whistling] [End Singing]
+Doc: GET HIM! Grumpy HEY! LET GO OF ME! 
+Doc: GET HIM OVER TO THE TUB.
+GET HIM OVER TO THE TUB.
+Grumpy: LET ME LOOSE, YOU FOOLS!
+LET ME LOOSE!
+Various Dwarfs: GET ‘IM UP ON THE TUB. GET ‘IM UP! HANG ONTO ‘IM! GET HIM UP ON THE TUB. THE TUB, THE TUB! DON’T GET EXCITED!
+DON’T GET--
+[Chattering] GET THE SOAP! [Doc]
+Doc: OH! STEADY, MEN! WE’LL GET HIM THERE. [Chattering] [Hiccuping] [Dwarfs Laughing] [Singing begining again]
+NOW SCRUB GOOD AND HARD
+IT CAN’T BE DENIED
+THAT HE’LL LOOK MIGHTY CUTE
+AS SOON AS HE’S DRIED
+WELL, IT’S GOOD FOR THE SOUL AND IT’S GOOD FOR THE HIDE TO GO-- [Sputtering]
+All Dwarfs: AIN’T HE SWEET?
+[Sniffing]
+Sneezy: SMELLS LIKE A PETUNIA.
+Happy: HE SURE IS CUTE.
+[Laughing]
+Grumpy: YOU’LL PAY DEARLY FOR THIS!
+Snow White: SUPPER!
+[Banging]
+Doc: SUPPER!
+All Dwarfs: [In Unison] FOOD! HURRAY!
+Grumpy: [Sputtering] HAH!
+(back at the castle, one night, The Wicked Queen is in her throne)
+Queen: MAGIC MIRROR ON THE WALL, WHO NOW IS THE FAIREST ONE OF ALL?
+Mirror: OVER THE SEVEN JEWELLED HILLS, BEYOND THE SEVENTH FALL, IN THE COTTAGE OF THE SEVEN DWARFS, DWELLS SNOW WHITE, FAIREST ONE OF ALL.
+Queen: SNOW WHITE LIES DEAD IN THE FOREST. THE HUNTSMAN HAS BROUGHT ME PROOF. BEHOLD, HER HEART.
+Mirror: SNOW WHITE STILL LIVES, THE FAIREST IN THE LAND.
+’TIS THE HEART OF A PIG YOU HOLD IN YOUR HAND. 
+Queen: THE HEART OF A PIG?! THEN I’VE BEEN TRICKED!
+THE HEART OF A PIG!
+THE BLUNDERING FOOL!
+I’LL GO MYSELF TO THE DWARFS’
+COTTAGE IN A DISGUISE SO COMPLETE NO ONE WILL EVER SUSPECT.
+NOW, A FORMULA TO TRANSFORM MY BEAUTY INTO UGLINESS.
+CHANGE MY QUEENLY RAIMENT TO A PEDDLER’S CLOAK.
+MUMMY DUST to make me old.
+TO SHROUD MY CLOTHES, THE BLACK OF NIGHT.
+TO AGE MY VOICE, AN OLD HAG’S CACKLE. [Cackling]
+TO WHITEN MY HAIR, A SCREAM OF FRIGHT. [Screaming]
+A BLAST OF WIND...TO FAN MY HATE!
+A THUNDERBOLT... TO MIX IT WELL.NOW...
+BEGIN THY MAGIC SPELL.
+[Glass Shattering] [Gasping]
+LOOK! MY HANDS!
+MY VOICE! MY VOICE! [Cackling] A PERFECT DISGUISE.
+[Cackling] [Cackling] AND NOW, A SPECIAL... SORT OF DEATH FOR ONE SO FAIR. WHAT SHALL IT BE? AH! A POISONED APPLE!
+SLEEPING DEATH.
+ONE TASTE OF THE POISONED APPLE... AND THE VICTIM’S EYES
+WILL CLOSE FOREVER...
+IN THE SLEEPING DEATH.
+[Singing by Dwarfs & Snow White]
+Yodel Ho-la-la-ee-ay Ho-la-la-ee-ay Ho-la-la-ee-ay-ee-la -ee-ay-ee-lee-ay Ho-la-la-ee-ay Ho-la-la-ee-ay Ho-la-la-ee-ay-ee-la -lee-ay-lee-o-lee-ay
+I’D LIKE TO DANCE AND TAP MY FEET, BUT THEY WON’T KEEP IN RHYTHM
+YOU SEE, I WASHED ‘EM BOTH TODAY AND I CAN’T DO NOTHIN’ WITH ‘EM
+HO-HUM, THE TUNE IS DUMB
+THE WORDS DON’T MEAN A THING
+ISN’T THIS A SILLY SONG
+FOR ANYONE TO SING
+[Dwarfs Laughing] I--
+[Giggling] [Dwarfs Laughing] OH, G-GOSH!
+[Dwarfs Laughing] [Laughing Continues]
+[Shrill Note] I CHASED A POLECAT UP A TREE WAY OUT UPON A LIMB
+AND WHEN HE GOT THE BEST OF ME I GOT THE WORST OF HIM
+[Snickering]
+HO-HUM, THE TUNE IS DUMB
+THE WORDS DON’T MEAN A THING
+ISN’T THIS A SILLY SONG
+FOR ANYONE TO SING
+[Yodelling] [Yodelling] [Vocalizing] AHHH
+[Buzzing] [Yodelling] [Yodelling] [Buzzing] [Note Sticks] [Chirps] [Cheering] [Spoken]
+Sneezy: BE CAREFUL. WATCH OUT. BE-- BE CARE-- WATCH IT! WATCH IT! WATCH--WATCH-- AH-- THANKS. [Yodelling] [Yodelling]
+[Laughing] [Laughing] [Yodelling] [Laughing]
+Sneezy: HEY! HEY!
+HEY! HEY!
+[Cheering] 
+Sneezy: AH-CH-- AH-CH-- AH-- AH-- AH-CH-- AH-CH-- AH-CH-- AH-- AH-- AH-CHOOOOO!
+[Laughing] [Laughing] [Laughing] [Snow White Laughing]
+Snow White: THAT WAS FUN.
+Happy: NOW YOU DO SOMETHIN’.
+Snow White: WELL, WHAT SHALL I DO?
+Sleepy: TELL US A STORY.
+All Dwarfs: [In Unison] YES! TELL US A STORY!
+Happy: A TRUE STORY.
+Bashful: A LOVE STORY.
+Snow White: WELL, ONCE THERE WAS A PRINCESS.
+Doc: WAS THE PRINCESS YOU?
+Snow White: AND SHE FELL IN LOVE.
+Sneezy: WAS IT HARD TO DO?
+Snow White: OH, IT WAS VERY EASY. ANYONE COULD SEE THAT THE PRINCE WAS CHARMING. THE ONLY ONE FOR ME.
+Doc: WAS HE, UH, STRONG AND HANDSOME?
+Sleepy: WAS HE BIG AND TALL?
+Snow White: THERE’S NOBODY LIKE HIM... ANYWHERE AT ALL.
+Bashful: DID HE SAY HE LOVED YA?
+Happy: DID HE STEAL A KISS?
+[Singing by Snow White] HE WAS SO ROMANTIC I COULD NOT RESIST SOME DAY MY PRINCE WILL COME SOME DAY WE’LL MEET AGAIN AND AWAY TO HIS CASTLE WE’LL GO TO BE HAPPY FOREVER I KNOW
+Grumpy: [Spoken] Hah! Mush.
+Snow White: [Singing Continues] SOME DAY WHEN SPRING IS HERE WE’LL FIND OUR LOVE ANEW AND THE BIRDS WILL SING AND WEDDING BELLS WILL RING SOME DAY WHEN MY DREAMS COME TRUE
+[End Singing]
+[Sighing]
+[Clock Ringing] [Ringing, Croaking]
+Snow White: OH, MY GOODNESS, IT’S PAST BEDTIME. GO RIGHT UPSTAIRS TO BED.
+Doc: WAIT! HOLD ON THERE, MEN. THE, UH, PRINCESS WILL SLEEP IN OUR BEDS UPSTAIRS.
+Snow White: BUT... WHERE WILL YOU SLEEP?
+Doc: OH, WE’LL BE QUITE COMFORTABLE DOWN HERE... IN, UH, IN, UH--
+Grumpy: IN A PIG’S EYE!
+Doc: IN A PIG’S EYE-- STY-- NO! NO! I MEAN-- WE’LL BE COMFORTABLE, WON’T WE, MEN?
+All Dwarfs: [In Unison] OH, YES, MIGHTY COMFORTABLE. 
+Doc: NOW, DON’T YOU WORRY ABOUT US. 
+Happy: WE’LL BE ALL RIGHT.
+Doc: GO RIGHT ON UP NOW, UH, UH, MY DEAR.
+Snow White: WELL, IF YOU INSIST. GOOD NIGHT.
+All Dwarfs: [In Unison] GOOD NIGHT, PRINCESS.
+Snow White: YOU’RE SURE YOU’LL BE COMFORTABLE?
+All Dwarfs: OH, YES, VERY COMFORTABLE.
+Snow White: WELL, PLEASANT DREAMS.
+All Dwarfs: PLEASANT DREAMS. [Door Closing]
+Various Dwarfs: LET GO!
+Doc: NOW, MEN, DON’T GET EXCITED. REMEMBER... SHARE AND SHARE ALIKE. 
+Various Dwarfs: LOOK OUT, IT’LL RIP! [Squeaking]
+Snow White: BLESS THE SEVEN LITTLE MEN... WHO HAVE BEEN SO KIND TO ME. AND MAY MY DREAMS COME TRUE. AMEN. OH, YES, AND PLEASE MAKE GRUMPY LIKE ME.
+[Snoring]
+Grumpy: Hah! Women! [Snoring Continues] 
+Grumpy: A fine kettle of fish.
+[Spitting] [Hissing Sound] [Snoring Continues] [Snoring] [Snoring] [Gurgling] [Whimpering] [Buzzing] [Fly Snoring] [Crickets Chirping, Frogs Croaking]
+Queen: DIP THE APPLE IN THE BREW. LET THE SLEEPING DEATH SEEP THROUGH. LOOK! ON THE SKIN! THE SYMBOL OF WHAT LIES WITHIN. NOW, TURN RED TO TEMPT SNOW WHITE. TO MAKE HER HUNGER FOR A BITE. [Cackling] HAVE A BITE? [Cackling] IT’S NOT FOR YOU! IT’S FOR SNOW WHITE. WHEN SHE BREAKS THE TENDER PEEL TO TASTE THE APPLE IN MY HAND, HER BREATH WILL STILL, HER BLOOD CONGEAL. THEN I’LL BE FAIREST IN THE LAND. [Cackling] [Gasping] BUT WAIT! THERE MAY BE AN ANTIDOTE. NOTHING MUST BE OVERLOOKED. AH! HERE IT IS! THE VICTIM OF THE SLEEPING DEATH... CAN BE REVIVED ONLY BY LOVE’S FIRST KISS. LOVE’S FIRST KISS! BAH! NO FEAR OF THAT. THE DWARFS WILL THINK SHE’S DEAD. SHE’LL BE BURIED ALIVE! [Cackling] [Cackling] [Cackling Continues] BURIED ALIVE! [Cackling] [Cackling] THIRSTY? HAVE A DRINK! [Cackling] [Leaves Rustling] [Door Latch Opening]
+Doc: NOW, DON’T FORGET, MY DEAR. TH-THE OLD QUEEN’S A SLY ONE. FULL OF WITCHCRAFT. SO BEWARE OF STRANGERS.
+Snow White: DON’T WORRY. I’LL BE ALL RIGHT.
+SEE YOU TONIGHT.
+[Giggling]
+Doc: OH, OH, YES.
+WELL, UH, COME ON, MEN.
+Sneezy: BE AWFUL CAREFUL, ‘CAUSE IF ANYTHING WOULD HAPPEN TO YOU, I-- I--
+Snow White: GOOD-BYE. 
+Sneezy: OH, GOSH!
+[Giggling] 
+Grumpy: HAH! DISGUSTIN’!
+Sneezy: AND BE SURE TO WATCH OUT-- TO WA-- TO WA-- TO WA-- WATCH OUT! THANKS. AH-CH-- AH-CH-CH-- AH-CH-- AH-CHOOOOO!
+[Laughing] 
+Snow White: WELL... ALL RIGHT.
+BUT THAT’S THE LAST--
+OH! GO ON. RUN ALONG.
+[Dwarfs Singing] HEIGH-HO, HEIGH-HO IT’S OFF TO WORK WE GO [Whistling] HEIGH-HO
+Snow White: [Spoken] GOOD-BYE. GOOD-BYE!
+[Clearing Throat] 
+Grumpy: [Spoken] NOW, I’M WARNIN’ YA. DON’T LET NOBODY OR NOTHIN’ IN THE HOUSE.
+Snow White: [Spoken] WHY, GRUMPY, YOU DO CARE. [Sighing]
+Grumpy: [Spoken] Huh!
+Snow White: [Spoken] GOOD-BYE, GRUMPY!
+[Shoes Sloshing] [Shoes Sloshing] [Cackling] [End Dwarfs singing in background]
+Queen: THE LITTLE MEN WILL BE AWAY...
+AND SHE’LL BE ALONE...
+WITH A HARMLESS OLD PEDDLER WOMAN. [Cackling]
+A HARMLESS OLD PEDDLER WOMAN. [Cackling]
+Snow White: [Sung] SOME DAY MY PRINCE WILL COME SOME DAY WE’LL MEET AGAIN AND AWAY TO HIS CASTLE WE’LL GO TO BE HAPPY FOREVER I KNOW SOME DAY WHEN SPRING IS HERE WE’LL FIND OUR LOVE ANEW AND THE BIRDS WILL SING AND WEDDING BELLS WILL RING SOME DAY WHEN MY DREAMS COME TRUE [Gasping]
+Queen: [Sinister Chuckling] ALL ALONE, MY PET?
+Snow White: WHY-- WHY, YES, I AM, BUT--
+Queen: THE... LITTLE MEN ARE NOT HERE?
+Snow White: NO, THEY’RE NOT, BUT--
+MM-HMM.
+[Sniffing]
+Queen: MAKIN’ PIES?
+Snow White: YES, GOOSEBERRY PIE.
+Queen: IT’S APPLE PIES THAT MAKES THE MENFOLKS’ MOUTHS WATER. PIES MADE FROM APPLES LIKE THESE. [Chuckling]
+Snow White: OH, THEY DO LOOK DELICIOUS.
+Queen: YES! BUT WAIT ‘TIL YOU TASTE ONE, DEARIE.
+[Sinister Chuckling] LIKE TO TRY ONE?
+Snow White: Hmm?
+Queen: GO ON. GO ON, HAVE A BITE. [Twittering]
+AH! AH!
+Snow White: [Mumbling] STOP IT, STOP IT. GO AWAY, GO AWAY. SHAME ON YOU, FRIGHTENING A POOR OLD LADY. [Muttering]
+OH, I THOUGHT I LOST IT. THERE, THERE. I’M SORRY.
+Queen: OH! MY HEART!
+OH, MY-- MY POOR HEART.
+TAKE ME INTO THE HOUSE AND LET ME REST. A DRINK OF WATER, PLEASE. [Twittering] [Twittering] [Singing by Dwarfs]
+HEIGH-HO, HEIGH-HO HEIGH-HO, HEIGH-HO IT’S OFF TO WORK WE GO
+[Whistling]
+HEIGH-HO, HEIGH-HO [Twittering] [Whistling] [End Singing]
+Doc: HEY, LOOK!
+[Cart Clattering] [Twittering] 
+Various Dwarfs: STOP THAT. GET AWAY! GET AWAY! GO ON, SHOO!
+Grumpy: GO ON, GET OUTTA HERE!
+Doc: WHAT AILS THESE CRAZY BIRDS? TH-THEY’VE GONE PLUMB DAFFY.
+Sneezy: YEAH, THEY’VE GONE-- AH-- AH-- AH-CHOOOOO
+Queen: AND BECAUSE YOU’VE BEEN SO GOOD TO POOR OLD GRANNY, I’LL SHARE A SECRET WITH YOU. THIS IS NO ORDINARY APPLE. IT’S A MAGIC WISHING APPLE.
+Snow White: A WISHING APPLE?
+Queen: YES! ONE BITE AND ALL YOUR DREAMS WILL COME TRUE.
+Snow White: REALLY?
+Queen: YES, GIRLIE! NOW, MAKE A WISH AND TAKE A BITE.
+Various Dwarfs: GO ON, GIT! THESE PESKY CRITTERS WON’T STOP!
+Grumpy: ‘TAIN’T NATURAL. THERE’S SOMETHING WRONG! THEY AIN’T ACTIN’ THIS WAY FOR NOTHIN’!
+Sleepy: MAYBE THE OLD QUEEN’S GOT SNOW WHITE.
+Doc: THE QUEEN!
+All Dwarfs: [In Unison] SNOW WHITE!
+Grumpy: THE QUEEN WILL KILL HER! WE GOTTA SAVE HER!
+Doc: YES, YES, WE-WE GOTTA SAVE HER!
+Happy: WHAT’LL WE DO?
+Doc: YES, W-WHAT’LL WE DO?
+Grumpy: COME ON! GIDDAP!
+Doc: WAIT FOR ME! WAIT-- [Shouting] [Shouting]
+Queen: THERE MUST BE SOMETHING YOUR LITTLE HEART DESIRES. PERHAPS THERE'S SOMEONE YOU LOVE.
+Snow White: WELL, THERE IS SOMEONE.
+Queen: I THOUGHT SO. I THOUGHT SO. OLD GRANNY KNOWS A YOUNG GIRL’S HEART. NOW, TAKE THE APPLE, DEARIE, AND MAKE A WISH.
+Snow White: I WISH-- I WISH--
+Queen: THAT’S IT. GO ON. GO ON.
+Snow White:...AND THAT HE WILL CARRY ME AWAY TO HIS CASTLE... WHERE WE WILL LIVE HAPPILY EVER AFTER.
+Queen: FINE! FINE! NOW, TAKE A BITE. DON’T LET THE WISH GROW COLD! 
+Snow White: OH! I FEEL STRANGE. 
+Queen: HER BREATH WILL STILL.
+Snow White: Oh.
+Queen: HER BLOOD CONGEAL.
+Snow White: Oh. [Gasping] [Cackling]
+[Thunderclap]
+Queen: NOW I’LL BE FAIREST IN THE LAND! [Cackling]
+Grumpy: Hurry, hurry!
+THERE SHE GOES! AFTER HER!
+[Shouting] [Wind Howling] [Thunder Rumbling] [Panting] [Gasping]
+Queen: I’m trapped. What will I do? The meddling little fools! I’ll fix ya! I’ll crush your bones!
+Doc: Look out!
+[Cackling] [Screaming] [Organ] [Sobbing] [Sobbing] [Organ Continues] [Sung]
+Prince: [Sung] One song 
+Chorus: One song, I have but one song One song, only for you One song, only for you ONE HEART, TENDERLY BEATING EVER ENTREATING, EVER ENTREATING CONSTANT AND TRUE, SO TRUE ONE LOVE, ONE LOVE THAT HAS POSSESSED ME ONE LOVE, ONE LOVE THRILLING ME THROUGH, SO TRUE ONE SONG, ONE SONG MY HEART KEEPS SINGING KEEPS SINGING OF ONE LOVE ONE LOVE, ONLY FOR YOU 
+Chorus: AND AWAY TO HIS CASTLE YOU’LL GO TO BE HAPPY FOREVER WE KNOW [End Singing]
+Snow White: Good-bye. Good-bye, Grumpy. Good-bye. Oh, Dopey. Good-bye!
+[Sung]
+Chorus: Some day when spring is here we’ll find our love anew and the birds will sing and wedding bells will ring some day when my dreams come true… 

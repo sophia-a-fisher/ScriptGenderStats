@@ -1,0 +1,87 @@
+Spring Registration 2023
+
+98099
+98 Number
+C S 429 (52140) MTWTH 1:00pm - 2:00pm; F 1:00pm - 3:00pm
+SDS 321 (57580) TTH 3:30pm- 5:00pm
+
+History
+32434 - Intro to Asian American AAS 312 12:00-1:00 MWF
+38669 - Intro to Asian American HIS 317L 12:00-1:00 MWF
+38690 - History of Religion HIS 317L 9:00-10:00 MWF
+42740 - History of Religion in US RS 316C 9:00-10:00 MWF
+38670 - LATINX History HIS 317L 9:00-10:00 MWF
+40200 - LATINX History MAS 319 9:00-10:00 MWF
+38605 - History of Mexican Americans HIS 314K 11:00-12:00 MWF
+40185 - History of Mexican American MAS 316 11:00-12:00 MWF
+38600 - History of Mexican Americans HIS 314K 9:30-11:00 TTH
+40180 - History of Mexican American MAS 316 9:30-11:00 TTH
+31640 - Intro to American Studies AMS 310 10:00-11:30 MW
+31635 - Intro to American Studies AMS 310 9:30-11:00 TTH
+
+Government
+37975 - Issues and Policies GOV 312L 2:00-3:30 TTH
+37985 - Issues and Policies GOV 312L 11:00-12:30 TTH
+37990 - Issues and Policies GOV 312L 12:00-1:00 MWF
+38010 - Constitutional Principles GOV 312P 9:30-11:00 TTH
+37980 - Issues and Policies GOV 312L 8:00-9:30 TTH
+37970 - Issues and Policies GOV 312L 11:00-12:30 (WEB) TTH
+
+Electives
+
+BDP/AET Courses
+09335 - Video Game Culture/Criticsim RTF 331P 11:00-12:30 TTH
+09190 - Media and Society RTF 307 9:30-11:00 TTH
+09195 - Media and Society RTF 307 10:00-11:00 MWF
+08930 - Technology and Culture J 351T 2:00-3:30
+08805 - True Crime Podcast J 330M 3:00-4:30 
+61235 - Intro to the Entrperal Mindset BDP 101 2:00-3:00pm
+09185 - Media and Society RTF 307 9:00-10:00 MWF (WEB)
+08680 - Computer Concepts in International Tech J 308N (WEB)
+09300 - Digital Media Production (WEB)
+
+CS Courses
+52160 - Elements of Game Development CS 329E 3:00-4:00 and 11:00-12:00 MWF
+52020 - Elements of Software Design CS 313E 11:00-12:30 TTH
+52039 - Elements of Software Deisgn CS 313E 12:00-1:00 MWF
+52175 - Elements of Web Programming CS 329E 9:00-10:00 MWF
+52180 - Elements of Web Programming CS 329E 10:00-11:00 MWF
+51890 - Ethical Foundations CompSci CS 103F 2:00-3:00 T
+51899 - Computer Programming: Python CS 109 2:00-3:00 TTH
+52038 - Elements of Software Design CS 313E 3:30-5:00 MW (Hybrid)
+
+Foreign Language
+33140 - Japanese I JPN 601D 
+33145 - Japanese I JPN 601D 
+33160 - Japanese I JPN 601D 
+33164 - Japanese I JPN 601D 
+
+Maths
+54775 - Matricies/Matrix M 340L 3:00-4:00 (CS) MWF
+54750 - Matricies/Matrix M 340L 11:00-12:00 MWF
+54760 - Matricies/Matrix M 340L 2:00-3:30 TTH
+54765 - Matricies/Matrix M 340L 11:00-12:30 TTH
+
+(time-conflicts)
+38675 - Mexican American Women HIS 317L 12:30-2:00 TTH
+40205 - Mexican American Women MAS 319 12:30-2:00 TTH
+38680 - Building America HIS 317L 3:30-5:00 TTH 
+
+(time-conflicts)
+37995 - Issues and Policies GOV 312L 12:00-2:00 TTH
+38000 - Issues and Policies GOV 312L 1:00-2:30 MW
+38005 - Issues and Policies GOV 312L 1:00-2:00 MWF
+37960 - Issues and Policies GOV 312L
+
+(time-conflicts)
+33150 - Japanese I JPN 601D 
+33155 - Japanese I JPN 601D 
+
+(time-conflicts)
+54770 - Matricies/Matrix M 340L 2:00-3:00 (CS) MWF
+54755 - Matricies/Matrix M 340L 12:30-2:00 TTH
+
+(should be reserved)
+57575 - Intro to Probability/Stats SDS 321 11:00-12:30 (WEB)
+57580 - Intro to Probability/Stats SDS 321 3:30-5:00 (WEB)
+
